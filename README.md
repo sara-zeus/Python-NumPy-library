@@ -38,13 +38,4 @@ The repository contains a collection of Jupyter Notebook files, each dedicated t
 
 1. Clone or download the repository.
 2. Open and run the Jupyter Notebooks using a compatible environment (e.g., JupyterLab, Jupyter Notebook, Google Colab).
-3. Follow along with the exercises, explore the code, and experiment with the provided examples to enhance your understanding of NumPy.
-
-## Contributions
-
-Contributions in the form of additional exercises, improved solutions, or enhancements to the existing content are welcome! Fork the repository, make your changes, and submit a pull request.
-
-Let's collectively strengthen our understanding and expertise in NumPy by practicing and sharing our knowledge!
-
----
- 
+3. Follow along with the exercises, explore the code, and experiment with the provided examples to enhance your understanding of NumPy. 
